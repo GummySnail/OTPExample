@@ -1,0 +1,15 @@
+C:\Common\Programming\OTP\OtpExample\OtpExample\bin\Debug\net7.0\OtpExample.exe
+C:\Common\Programming\OTP\OtpExample\OtpExample\bin\Debug\net7.0\OtpExample.deps.json
+C:\Common\Programming\OTP\OtpExample\OtpExample\bin\Debug\net7.0\OtpExample.runtimeconfig.json
+C:\Common\Programming\OTP\OtpExample\OtpExample\bin\Debug\net7.0\OtpExample.dll
+C:\Common\Programming\OTP\OtpExample\OtpExample\bin\Debug\net7.0\OtpExample.pdb
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\OtpExample.csproj.AssemblyReference.cache
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\OtpExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\OtpExample.AssemblyInfoInputs.cache
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\OtpExample.AssemblyInfo.cs
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\OtpExample.csproj.CoreCompileInputs.cache
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\OtpExample.dll
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\refint\OtpExample.dll
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\OtpExample.pdb
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\OtpExample.genruntimeconfig.cache
+C:\Common\Programming\OTP\OtpExample\OtpExample\obj\Debug\net7.0\ref\OtpExample.dll
