@@ -22,6 +22,7 @@ while (true)
     if (enteredCode == user.TempCode)
     {
         user.TempCode = null;
+        user.IsOTPVerificated = true;
         break;
     }
     Console.WriteLine("Wrong code");
